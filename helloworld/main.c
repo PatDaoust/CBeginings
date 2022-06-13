@@ -30,5 +30,22 @@ int sum = x + y;
 printf("the sum is: %d", sum);
 printf("\n");
 
+printf("size of sum is: %lu", sizeof(sum));
+printf("\n");
+
+int x1 = 10;
+int y1 = 5;
+printf("x1 times y1 is: %d", x1 * y1);
+printf("\n");
+
+int time = 20;
+if (time < 18) {
+  printf("Good day.");
+} else {
+  printf("Good evening.");
+}
+(time < 18) ? printf("Good day.") : printf("Good evening.");
+printf("\n");
+
     return 0;
 }
