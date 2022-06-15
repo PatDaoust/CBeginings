@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1655306187 source:c:\users\catal\onedrive\desktop\learning_to_code\cbeginings\madlibs\main.c
+	<stdio.h>
+	<stdlib.h>
+
